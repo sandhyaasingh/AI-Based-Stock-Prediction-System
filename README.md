@@ -77,7 +77,4 @@ python main.py
 - Implementing hyperparameter tuning for better performance.
 - Deploying the model as a web-based application for real-time predictions.
 
----
-Developed with a focus on stock market analysis and predictive modeling.
-
 
