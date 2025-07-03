@@ -74,7 +74,6 @@ streamlit run app.py
 Once deployed (e.g., on Streamlit Cloud), you can:
 
 * Open it from any browser (phone or laptop)
-* Share the link with friends
 * Predictions will always be **up-to-date** with the latest stock data
 
 ---
@@ -94,6 +93,6 @@ Once deployed (e.g., on Streamlit Cloud), you can:
 
 ## ⭐ If You Like It
 
-Give this repo a ⭐ on GitHub to support!
+Give this repo a ⭐ 
 
 ---
