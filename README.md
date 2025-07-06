@@ -87,9 +87,7 @@ Once deployed (e.g., on Streamlit Cloud), you can:
 5. **Predict and inverse-scale:** Show actual vs predicted.
 6. **Forecast 10 future days:** Using the latest sequence.
 
-
 ---
-
 
 ## ⭐ If You Like It
 
